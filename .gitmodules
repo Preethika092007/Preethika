@@ -1,0 +1,3 @@
+[submodule "my-new-project/my-new-project/Crop-Monitoring-system"]
+	path = my-new-project/my-new-project/Crop-Monitoring-system
+	url = https://github.com/BishalDas1010/Crop-Monitoring-system.git
